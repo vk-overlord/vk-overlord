@@ -9,18 +9,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
 
+<!--
 ### 🔥 Лучшие проекты:
 - [Проект 1](https://github.com/ТВОЙ_НИК/проект1) - Краткое описание
 - [Проект 2](https://github.com/ТВОЙ_НИК/проект2) - Краткое описание
-
-### 📬 Связь со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/твой_ник)
 
 ### 🔧 Основные технологии:
 - 🐍 Python | Java | C++
 - 📦 Docker | Git & GitHub | Qt Designer
 - 🌐 HTML | CSS | SQL (Основы)
+
+### 📬 Связь со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/твой_ник)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/твой_ник)
+-->
+
 <!--
 **vk-overlord/vk-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
