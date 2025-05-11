@@ -1,5 +1,11 @@
 ## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Valentin</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+![GitHub Banner](https://ссылка_на_картинку)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 <!--
 **vk-overlord/vk-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
