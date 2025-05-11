@@ -1,8 +1,10 @@
-![Описание изображения](images/github-header-image.png)
+<p align="center">
+  <img src="./images/github-header-image.png" alt="GitHub Header">
+</p>
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Valentin</a> 
+<h1 align="center"> Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Valentin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT</h3>
+<h3 align="center">Computer science student</h3>
 
 ### 🛠 Инструменты:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
