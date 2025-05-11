@@ -17,13 +17,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 - ![HTML](https://img.shields.io/badge/HTML-FF4B26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-FFA500?style=for-the-badge&logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FFA500?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
+
 <!--
 ### 🔥 Лучшие проекты:
 - [Проект 1](https://github.com/ТВОЙ_НИК/проект1) - Краткое описание
