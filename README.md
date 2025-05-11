@@ -1,30 +1,21 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Valentin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT</h3>
-
-
-
-### 📬 Связь со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/твой_ник)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=dark)
 ### 🔥 Лучшие проекты:
 - [Проект 1](https://github.com/ТВОЙ_НИК/проект1) - Краткое описание
 - [Проект 2](https://github.com/ТВОЙ_НИК/проект2) - Краткое описание
-
+### 🛠 Инструменты:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
+### 📬 Связь со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/твой_ник)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/твой_ник)
 ### 🔧 Основные технологии:
 - 🐍 Python | Java | C++
 - 📦 Docker | Git & GitHub | Qt Designer
 - 🌐 HTML | CSS | SQL (Основы)
-
-### 🛠 Инструменты:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
-
 <!--
 **vk-overlord/vk-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
