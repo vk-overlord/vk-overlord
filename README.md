@@ -6,6 +6,9 @@
   Hi there, I'm 0VΞRL0RD <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">Computer science student</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical">
+
+🌱 I’m currently learning
 
 ### 🛠 Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -21,34 +24,28 @@
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical">
-
 <!--
 ### 🔥 Лучшие проекты:
 - [Проект 1](https://github.com/ТВОЙ_НИК/проект1) - Краткое описание
 - [Проект 2](https://github.com/ТВОЙ_НИК/проект2) - Краткое описание
 
-### 🔧 Основные технологии:
+### 🔧 Основные технологии
 - 🐍 Python | Java | C++
 - 📦 Docker | Git & GitHub | Qt Designer
 - 🌐 HTML | CSS | SQL (Основы)
 
-### 📬 Связь со мной:
+### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/твой_ник)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/твой_ник)
 -->
 
 <!--
 **vk-overlord/vk-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
