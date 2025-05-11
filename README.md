@@ -27,7 +27,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical">
 
 <!--
 ### 🔥 Лучшие проекты:
