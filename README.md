@@ -25,14 +25,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub Banner](https://ссылка_на_картинку)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=dark)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=dark)
 <!--
 **vk-overlord/vk-overlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
