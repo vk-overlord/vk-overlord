@@ -7,7 +7,7 @@
 
 ### 🛠 Инструменты:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=radical)
