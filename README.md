@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-overlord&show_icons=true&theme=dark)
-
 ### 🔥 Лучшие проекты:
 - [Проект 1](https://github.com/ТВОЙ_НИК/проект1) - Краткое описание
 - [Проект 2](https://github.com/ТВОЙ_НИК/проект2) - Краткое описание
